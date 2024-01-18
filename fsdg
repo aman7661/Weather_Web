@@ -1,0 +1,18 @@
+"cloud_pct": 75, 
+"temp": 34, 
+"feels_like": 41, 
+"humidity": 59, 
+"min_temp": 34, 
+"max_temp": 34, 
+"wind_speed": 2.06, 
+"wind_degrees": 30, 
+"sunrise": 1688255807, 
+"sunset": 1688305981
+
+"CO": {"concentration": 881.2, "aqi": 10}, 
+"NO2": {"concentration": 6.94, "aqi": 8}, 
+"O3": {"concentration": 308.99, "aqi": 274}, 
+"SO2": {"concentration": 23.37, "aqi": 34}, 
+"PM2.5": {"concentration": 153.55, "aqi": 203}, 
+"PM10": {"concentration": 174.77, "aqi": 110}, 
+"overall_aqi": 274
